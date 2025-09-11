@@ -7,7 +7,7 @@ int main(){
         printf("Iteration %d\n", i);
         if (i==7)
         {
-            printf("Exiting at iteration %d\n", i);
+            printf("Exiting at iteration 7\n");
             exit(0);
         }
     }
