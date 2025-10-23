@@ -17,6 +17,10 @@
 #include <stdio.h>
 #include <string.h>
 
+//POSIX calls make it possible to build a shell in C
+//Shell code is actually pretty small
+//C provides a lower-level interface allowing you to do pretty much anything locally
+
 /*
   Function Declarations for builtin shell commands:
  */
